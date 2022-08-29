@@ -10,7 +10,7 @@ Summary
 * Using Matplotlib to visualize and find insight improving marketing strategy  
 * Input: file "12 months sales.csv"
 * Output:
-* * What was the best month for sales? How much was earned that month?
+  * What was the best month for sales? How much was earned that month?
 * * What city has the best sales?
 * * What time should we display ads to maximize the likelihood of customer’s buying product?
 * * What product sold the most? 
