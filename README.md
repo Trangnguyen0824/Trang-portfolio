@@ -1,4 +1,3 @@
-# Trang's portfolio
 
 # [Project 1: Tableau Dashboard](https://public.tableau.com/app/profile/trang9503)
 This is a project I used Tableau Tool to clean, transform, and build a Sale probability dashboard
