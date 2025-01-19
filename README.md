@@ -1,6 +1,6 @@
 
 # [Project 1: Tableau Dashboard](https://public.tableau.com/app/profile/trang9503)
-This is a project I used Tableau Tool to clean, transform, and build a Sale probability dashboard
+Summary: Using Tableau clean, transform, and build a Sale probability dashboard
 
 
 # [Project 2: Exploratory data analysis with Python and pandas, Matplotlib](https://github.com/Trangnguyen0824/ETL-Data-by-Python-Pandas)                     
@@ -13,4 +13,6 @@ Summary:
   * What was the best month for sales? How much was earned that month?
   * What city has the best sales?
   * What time should we display ads to maximize the likelihood of customer’s buying product?
-  * What product sold the most? 
+  * What product sold the most?
+
+# [Project 3: Exploratory data analysis with Python and pandas, Matplotlib](https://github.com/Trangnguyen0824/ETL-Data-by-Python-Pandas) 
