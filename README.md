@@ -15,4 +15,4 @@ Summary:
   * What time should we display ads to maximize the likelihood of customer’s buying product?
   * What product sold the most?
 
-# [Project 3: Exploratory data analysis with Python and pandas, Matplotlib](https://github.com/Trangnguyen0824/ETL-Data-by-Python-Pandas) 
+
